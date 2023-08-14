@@ -1,0 +1,11 @@
+{
+  "name": "weather-app-v1.0",
+  "version": "1.0.0",
+  "description": "A simple weather page integrated with an API from OpenWeather",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arrrjhay009",
+  "license": "ISC"
+}
